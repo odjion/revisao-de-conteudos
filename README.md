@@ -12,7 +12,7 @@ Revisão de seguintes conteúdos de programação:
 - Banco de dados
 
 1. Lógica de programação:
-    1.1 - retomar os conceitos básicos:
+   - 1.1 - retomar os conceitos básicos:
    
    - etimologia das palavras e seus significados
    - algoritmos e problemas computacionais
