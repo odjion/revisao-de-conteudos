@@ -1,5 +1,5 @@
 # revisao-de-conteudos
-Revisão de conteúdos de programação:
+Revisão de seguintes conteúdos de programação:
 
 - Matemática básica
 - Fundamentos da Comoputação
@@ -10,3 +10,14 @@ Revisão de conteúdos de programação:
 - CSS
 - JavaScipt
 - Banco de dados
+
+1. Lógica de programação:
+    1.1 - retomar os conceitos básicos:
+    etimologia das palavras e seus significados
+    algoritmos e problemas computacionais
+    dados
+    tipos de dados
+    entrada e saída de dados
+    processamento de dados
+    ocorrências (instâncias) de dados (lê-se: problemas computacionais)
+    
