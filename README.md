@@ -13,6 +13,7 @@ Revisão de seguintes conteúdos de programação:
 
 1. Lógica de programação:
     1.1 - retomar os conceitos básicos:
+   ,
     etimologia das palavras e seus significados
     algoritmos e problemas computacionais
     dados
