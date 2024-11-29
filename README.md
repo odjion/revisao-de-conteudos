@@ -13,12 +13,12 @@ Revisão de seguintes conteúdos de programação:
 
 1. Lógica de programação:
     1.1 - retomar os conceitos básicos:
-   ,
-    etimologia das palavras e seus significados
-    algoritmos e problemas computacionais
-    dados
-    tipos de dados
-    entrada e saída de dados
-    processamento de dados
-    ocorrências (instâncias) de dados (lê-se: problemas computacionais)
+   
+   - etimologia das palavras e seus significados
+   - algoritmos e problemas computacionais
+   - dados
+   -  tipos de dados
+   - entrada e saída de dados
+   - processamento de dados
+   - ocorrências (instâncias) de dados (lê-se: problemas computacionais)
     
